@@ -1,0 +1,24 @@
+[2015-08-24 12:25:42,871][INFO ][node                     ] [Adam Warlock] version[1.7.1], pid[7159], build[b88f43f/2015-07-29T09:54:16Z]
+[2015-08-24 12:25:42,871][INFO ][node                     ] [Adam Warlock] initializing ...
+[2015-08-24 12:25:42,999][INFO ][plugins                  ] [Adam Warlock] loaded [], sites []
+[2015-08-24 12:25:43,077][INFO ][env                      ] [Adam Warlock] using [1] data paths, mounts [[/ (rootfs)]], net usable_space [870.4mb], net total_space [1gb], types [rootfs]
+[2015-08-24 12:25:46,606][INFO ][node                     ] [Adam Warlock] initialized
+[2015-08-24 12:25:46,606][INFO ][node                     ] [Adam Warlock] starting ...
+[2015-08-24 12:25:46,743][INFO ][transport                ] [Adam Warlock] bound_address {inet[/0:0:0:0:0:0:0:0:9300]}, publish_address {inet[/172.17.30.138:9300]}
+[2015-08-24 12:25:46,780][INFO ][discovery                ] [Adam Warlock] elasticsearch/VrXWVxPLRuibTjNZSO9B0Q
+[2015-08-24 12:25:50,570][INFO ][cluster.service          ] [Adam Warlock] new_master [Adam Warlock][VrXWVxPLRuibTjNZSO9B0Q][benmcmaster-movie_review-1809030][inet[/172.17.30.138:9300]], reason: zen-disco-join (elected_as_master)
+[2015-08-24 12:25:50,599][INFO ][http                     ] [Adam Warlock] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/172.17.30.138:9200]}
+[2015-08-24 12:25:50,600][INFO ][node                     ] [Adam Warlock] started
+[2015-08-24 12:25:50,624][INFO ][gateway                  ] [Adam Warlock] recovered [0] indices into cluster_state
+[2015-08-24 13:13:31,034][INFO ][node                     ] [Tzabaoth] version[1.7.1], pid[7941], build[b88f43f/2015-07-29T09:54:16Z]
+[2015-08-24 13:13:31,036][INFO ][node                     ] [Tzabaoth] initializing ...
+[2015-08-24 13:13:31,194][INFO ][plugins                  ] [Tzabaoth] loaded [], sites []
+[2015-08-24 13:13:31,279][INFO ][env                      ] [Tzabaoth] using [1] data paths, mounts [[/ (rootfs)]], net usable_space [844.3mb], net total_space [1gb], types [rootfs]
+[2015-08-24 13:13:35,206][INFO ][node                     ] [Tzabaoth] initialized
+[2015-08-24 13:13:35,206][INFO ][node                     ] [Tzabaoth] starting ...
+[2015-08-24 13:13:35,334][INFO ][transport                ] [Tzabaoth] bound_address {inet[/0:0:0:0:0:0:0:0:9300]}, publish_address {inet[/172.17.30.138:9300]}
+[2015-08-24 13:13:35,369][INFO ][discovery                ] [Tzabaoth] elasticsearch/tSrckBAXQkS60qFgnzERtA
+[2015-08-24 13:13:39,163][INFO ][cluster.service          ] [Tzabaoth] new_master [Tzabaoth][tSrckBAXQkS60qFgnzERtA][benmcmaster-movie_review-1809030][inet[/172.17.30.138:9300]], reason: zen-disco-join (elected_as_master)
+[2015-08-24 13:13:39,190][INFO ][http                     ] [Tzabaoth] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/172.17.30.138:9200]}
+[2015-08-24 13:13:39,191][INFO ][node                     ] [Tzabaoth] started
+[2015-08-24 13:13:39,217][INFO ][gateway                  ] [Tzabaoth] recovered [0] indices into cluster_state
